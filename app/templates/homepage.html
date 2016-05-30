@@ -1,20 +1,45 @@
 {% extends "base.html" %}
 
 {% block page_content %}
-    <div class="page-header">
-        <h1>Joshua Westgard's Project Homepage</h1>
-    </div>
-        <p>This website is my personal workspace and home of some 
-        public research projects. For information about me, see 
-        <a href="http://terpconnect.umd.edu/~westgard">my 
-        professional homepage at UMD</a>.</p>
-        
-        <h2>Research Projects</h2>
+<div class="page-header">
+    <h1>Joshua Westgard's Project Homepage</h1>
+</div>
+<p>This website is my personal workspace and home of some public 
+research projects. For information about me, see 
+<a href="http://terpconnect.umd.edu/~westgard">my 
+professional homepage at UMD</a>.</p>
+    
+<h2>Research Projects</h2>
+<ul>
+    <li>
+        <a href="http://www.bedemanuscripts.net">Census 
+        of Bede Manuscripts</a>: A comprehensive inventory of the 
+        medieval manuscripts of the works of the Venerable Bede.
+    </li>
+    <li>
+        <a href="http://www.github.com/jwestgard">
+        Coding projects on Github</a>:
         <ul>
-            <li><a href="http://www.bedemanuscripts.net">Census 
-                of Bede Manuscripts</a></li>
-            <li><a href="http://www.github.com/jwestgard">
-                Coding projects on Github</a></li>
+            <li>
+                <a href="https://github.com/jwestgard/csv-validate">
+                csv-validate</a>: Command-line tool for validation
+                of CSV datasets against rules defined in a YAML
+                schema file.
+            </li>
+            <li>
+                <a href="https://github.com/jwestgard/preserve">
+                preserve.py</a>: Command-line tools for digital 
+                preservation tasks, including creating ineventories
+                of files and verifying checksums.
+            </li>
+            <li>
+                <a href="https://github.com/jwestgard/fcrepo-serial-restore">
+                fcrepo-serial-restore</a>: Python script to restore 
+                the contents of a Fedora 4 repository from its 
+                serialized form (RDF plus binaries) stored on disk.
+            </li>
         </ul>
+    </li>
+</ul>
 {% endblock %}
 
