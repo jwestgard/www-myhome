@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+<div class="page-header">
+    <h1>Electronic Handlist of Bede Manuscripts</h1>
+</div>
+
+<table>
+    <ol>
+        {% for (n,abbrev,title) in works %}
+        <li>
+            {{abbrev}} &mdash; <i><a href="/bedemss/{{abbrev}}">
+                {{ title }}</a></i>
+        </li>
+        {% endfor %}
+    </ol>
+</table>
+
+{% endblock %}
+

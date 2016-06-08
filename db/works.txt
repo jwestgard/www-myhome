@@ -1,0 +1,47 @@
+1	CAc	Expositio Actuum Apostolorum
+2	CAcN	Expositio nominum locorum in Actus contentorum
+3	CAcR	Retractatio in Actus Apostolorum
+4	CAp	Expositio Apocalypseos
+5	CC	In Cantica Canticorum
+6	CEP	Collectio ex opusculis sancti Augustini in epistulas Pauli
+7	CEC	In epistulas VII catholicas
+8	CEz	In Ezram et Neemiam
+9	CGL	In principium Genesis (long version, = four books)
+10	CGS	In principium Genesis (short vers. = Ia+Ib)
+11	CGH	In principium Genesis (Hexaemeron vers. = Ia only [i.e. the non-Bedan redaction])
+12	CH	Expositio in Canticam Habacuc
+13	ChMa	Chronica maiora
+14	ChMi	Chronica minora
+15	CI	De eo quod ait Isaias
+16	CL	In Lucae euangelium expositio
+17	CM	In Marci euangelium expositio
+18	CMF	De mansionibus filiorum Israel
+19	CPr	In Prouerbia Salemonis
+20	CPs	Collectio Psalterii
+21	CQO	De octo quaestionibus
+22	CQT	In Regum librum XXX quaestiones
+23	CS	In primam partem Samuhelis
+24	CTa	De tabernaculo
+25	CTe	De templo
+26	CTo	In librum beati patris Tobiae 
+27	DAM	De arte metrica
+28	DLS	De locis sanctis
+29	DNR	De natura rerum
+30	DO	De orthographia
+31	DST	De schematibus et tropis
+32	DT	De temporibus
+33	DTR	De temporum ratione
+34	EA	Epistula ad Albinum
+35	EE	Epistula ad Ecgbertum
+36	EH	Epistula ad Helmuualdum
+37	EP	Epistula ad Pleguinum
+38	EW	Epistula ad Uuicthedum
+39	H	Homiliae euangelii
+40	HA	Historia abbatum
+41	HE	Historia ecclesiastica gentis Anglorum
+42	M	Martyrologium
+43	P	Poems
+44	VA	Passio Anastasii
+45	VCP	Vita Cuthberti prosa
+46	VCM	Vita Cuthberti metrica
+47	VF	Vita Felicis
